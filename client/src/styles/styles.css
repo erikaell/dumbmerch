@@ -1,0 +1,487 @@
+body {
+    font-family: 'Avenir', Helvetica, sans-serif !important;
+}
+
+.login-container {
+    min-height: 100vh;
+    background-color: black;
+    padding-left: 139px;
+    width: 96.75rem;
+}
+
+.left-login {
+    padding-top: 140px;
+}
+
+.left-login-text-header {
+    font-size: 56px;
+    font-weight: 800px;
+    color: white;
+}
+
+.left-login-text {
+    font-size: 18px;
+    font-weight: 400px;
+    color: #6A6A6A;
+    width: 453px;
+}
+
+.button-login {
+    width: 135px;
+    margin-top: 35px;
+}
+
+.button-register {
+    width: 135px;
+    margin-top: 35px;
+    text-decoration: none !important;
+    color: #B7B7B7 !important;
+}
+
+.form-login {
+    width: 416px;
+    max-height: 400px;
+    margin-top: 197px;
+    border-radius: 10px;
+    background-color: #181818;
+    padding: 41px 33px 29px;
+}
+
+.right-login-text {
+    font-weight: 900px;
+    font-size: 36px;
+    color: white;
+    width: 453px;
+}
+
+.form-margin {
+    margin-top: 20px;
+}
+
+input[type="email"] {
+    background-color: #D2D2D240;
+    border: 2px solid #BCBCBC;
+}
+
+input[type="file"] {
+    background-color: #D2D2D240;
+    border: 2px solid #BCBCBC;
+}
+
+input[type="password"] {
+    background-color: #D2D2D240;
+    border: 2px solid #BCBCBC;
+}
+
+input[type="text"] {
+    background-color: #D2D2D240;
+    border: 2px solid #BCBCBC;
+}
+
+input[type="number"] {
+    background-color: #D2D2D240;
+    border: 2px solid #BCBCBC;
+}
+
+textarea {
+    background-color: #D2D2D240 !important;
+    border: 2px solid #BCBCBC !important;
+}
+
+.button-login-login {
+    width: 100%;
+    margin-top: 40px;
+}
+
+.form-register {
+    width: 416px;
+    max-height: 450px;
+    margin-top: 197px;
+    border-radius: 10px;
+    background-color: #181818;
+    padding: 41px 33px 29px;
+}
+
+.form-margin-r {
+    margin-top: 5px;
+}
+
+select {
+    background-color: #D2D2D240 !important;
+    color: #5d646d !important;
+    border: 2px solid #BCBCBC !important;
+}
+
+.user-container {
+    padding-top: 25px;
+    padding-left: 150px;
+    padding-right: 150px;
+    background-color: black;
+    min-height: 90vh;
+    width: 100;
+    margin: 0;
+}
+
+.user-text {
+    font-size: 24px;
+    color: #F74D4D;
+    font-weight: 700;
+}
+
+.product-card {
+    background-color: #212121 !important;
+    padding: 0 !important;
+}
+
+.product-image {
+    margin: 0 !important;
+    width: 210px;
+    height: 300px;
+    object-fit: cover;
+}
+
+.product-card-text {
+    color: white;
+    margin: 0;
+    font-size: 14px;
+}
+
+.profile-pict {
+    max-width: 300px;
+    border-radius: 5px;
+    height: 400px;
+    object-fit: cover;
+}
+
+.profile-card-text {
+    color: white;
+    margin: 0;
+    font-size: 14px;
+}
+
+.card-title-text {
+    color: #F74D4D;
+    font-size: 14px;
+    font-weight: 700;
+    margin-bottom: 3px;
+}
+
+.img-history {
+    margin: 10px;
+    width: 100%;
+    height: 90%;
+    object-fit: cover;
+}
+
+.history-card {
+    background-color: #212121 !important;
+}
+
+.history-card-text {
+    color: white;
+    margin: 0;
+    font-size: 10px;
+}
+
+.history-card-date {
+    color: #F74D4D;
+    margin: 0;
+    font-size: 9px;
+}
+
+.img-detail {
+    width: 436px;
+    height: 555px;
+    object-fit: cover;
+}
+
+.detail-head-text {
+    color: #F74D4D;
+    margin: 0;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.detail-text {
+    color: white;
+    margin: 0;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.detail-price {
+    color: #F74D4D;
+    margin: 0;
+    font-weight: 700;
+    font-size: 24px;
+}
+
+.detail-container {
+    padding-top: 25px;
+    padding-left: 150px;
+    padding-right: 150px;
+    background-color: black;
+    min-height: 90vh;
+    width: 100;
+    margin: 0;
+}
+
+.table-container {
+    padding-top: 25px;
+    padding-left: 150px;
+    padding-right: 150px;
+    background-color: black;
+    min-height: 90vh;
+    width: 100;
+    margin: 0;
+}
+
+.table-title {
+    font-size: 24px;
+    font-weight: 700;
+    color: white;
+}
+
+.button-table {
+    width: 135px;
+}
+
+.table {
+    table-layout: fixed;
+}
+
+.edit-container {
+    padding-top: 25px;
+    padding-left: 150px;
+    padding-right: 150px;
+    background-color: black;
+    min-height: 90vh;
+    width: 100;
+    margin: 0;
+}
+
+.complain-container {
+    padding-top: 25px;
+    padding-left: 150px;
+    padding-right: 150px;
+    background-color: black;
+    min-height: 90vh;
+    width: 100;
+    margin: 0;
+}
+
+.messages-box,
+.chat-box {
+  height: 80vh;  
+  overflow-y: scroll;
+}
+
+.img-complain {
+    margin: 5px;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.message-text {
+    color: white;
+    font-size: 14px;
+    margin: 0;
+}
+
+.card-auth {
+    background: #181818;
+    border-radius: 10px;
+    max-width: 416px;
+}
+
+.form input {
+    background: rgba(210, 210, 210, 0.25);
+    border: 2px solid #bcbcbc;
+    box-sizing: border-box;
+    border-radius: 5px;
+    width: 100%;
+    color: #ffffff;
+}
+
+.btn-login {
+    background: #f74d4d !important;
+    border-radius: 5px !important;
+  
+    font-style: normal !important;
+    font-weight: 700 !important;
+    font-size: 18px !important;
+    line-height: 25px !important;
+  
+    color: #ffffff !important;
+}
+
+.btn-register {
+    font-style: normal !important;
+    font-weight: 800 !important;
+    font-size: 18px !important;
+    line-height: 25px !important;
+  
+    color: #b7b7b7 !important;
+}
+
+.bg-black {
+    background-color: #0b0b0b;
+    color: #ffffff;
+}
+
+.text-auth-header {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 56px;
+    line-height: 76px;
+}
+  
+.text-auth-parag {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 25px;
+  
+    color: #6a6a6a;
+}
+
+.label-file-add-product {
+    background: #f74d4d;
+    color: white;
+    padding: 0.5rem 1rem;
+    font-family: sans-serif;
+    border-radius: 0.3rem;
+    cursor: pointer;
+    margin-top: 1rem;
+}
+
+.card-form-input {
+  background: rgba(210, 210, 210, 0.25);
+  border: 2px solid #bcbcbc;
+  box-sizing: border-box;
+  border-radius: 5px;
+}
+
+.img-chat {
+  width: 40px !important;
+  height: 40px !important;
+  object-fit: cover !important;
+}
+
+.chat-me {
+  position: relative;
+  background: #262626;
+  color: white;
+  border-radius: 5px;
+  padding: 10px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 22px;
+  max-width: 400px;
+}
+
+.chat-me::before {
+  content: "";
+  position: absolute;
+  top: 8px;
+  right: -15px;
+  border-top: 15px solid transparent;
+  border-left: 20px solid #262626;
+  border-bottom: 15px solid transparent;
+}
+.chat-other {
+  position: relative;
+  background: #575757;
+  color: white;
+  border-radius: 5px;
+  margin-left: 10px;
+  padding: 10px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 22px;
+  max-width: 400px;
+}
+
+.chat-other::before {
+  content: "";
+  position: absolute;
+  top: 8px;
+  left: -15px;
+  border-top: 15px solid transparent;
+  border-right: 20px solid #575757;
+  border-bottom: 15px solid transparent;
+}
+
+.img-contact {
+  width: 50px !important;
+  height: 50px !important;
+  object-fit: cover !important;
+}
+
+.img-chat {
+  width: 40px !important;
+  height: 40px !important;
+  object-fit: cover !important;
+}
+
+.text-contact {
+  font-size: 14px;
+  color: #ababab;
+}
+
+.text-contact-chat {
+  color: #ababab;
+}
+
+.contact {
+  display: flex;
+  align-items: center;
+}
+.contact img {
+  flex-grow: 0;
+  flex-shrink: 0;
+}
+
+.contact ul {
+  list-style-type: none;
+}
+
+.contact:hover {
+  background-color: #212121;
+  transition: 0.5s;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.contact:active {
+  background-color: #3d3d3d;
+  transition: 0.3s;
+}
+
+.contact-active {
+  background-color: #212121;
+  border-radius: 5px;
+}
+
+.input-message {
+  width: 100%;
+  height: 90%;
+  background: rgba(171, 171, 171, 0.15);
+  border: none;
+  color: #ffffff;
+}
+
+.status-transaction-success {
+  background-color: #268d37b0;
+}
+
+.status-transaction-pending {
+  background-color: #8b8d265b;
+}
+
+.status-transaction-failed {
+  background-color: #8d26265b;
+}
+
